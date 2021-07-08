@@ -1,0 +1,16 @@
+2021-06-22 19:32:36,993 INFO org.springframework.boot.web.servlet.AbstractFilterRegistrationBean [main] Mapping filter: 'characterEncodingFilter' to: [/*]
+2021-06-22 19:32:37,002 INFO org.springframework.boot.web.servlet.AbstractFilterRegistrationBean [main] Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2021-06-22 19:32:37,002 INFO org.springframework.boot.web.servlet.AbstractFilterRegistrationBean [main] Mapping filter: 'formContentFilter' to: [/*]
+2021-06-22 19:32:37,003 INFO org.springframework.boot.web.servlet.AbstractFilterRegistrationBean [main] Mapping filter: 'requestContextFilter' to: [/*]
+2021-06-22 19:32:37,008 INFO org.springframework.boot.web.servlet.AbstractFilterRegistrationBean [main] Mapping filter: 'springSecurityFilterChain' to: [/*]
+2021-06-22 19:32:37,008 INFO org.springframework.boot.web.servlet.ServletRegistrationBean [main] Servlet dispatcherServlet mapped to [/]
+2021-06-22 19:32:37,194 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'requestContextFilter' configured for use
+2021-06-22 19:32:37,195 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'hiddenHttpMethodFilter' configured for use
+2021-06-22 19:32:37,196 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'characterEncodingFilter' configured for use
+2021-06-22 19:32:37,196 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'springSecurityFilterChain' configured for use
+2021-06-22 19:32:37,197 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'formContentFilter' configured for use
+2021-06-22 19:32:37,222 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'mainApp'
+2021-06-22 19:32:37,224 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'collegeMarks'
+2021-06-22 19:32:37,226 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'studentMarkBean'
+2021-06-22 19:32:37,227 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'securityConfiguration'
+2021-06-22 19:32:37,299 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'objectPostProcessor'

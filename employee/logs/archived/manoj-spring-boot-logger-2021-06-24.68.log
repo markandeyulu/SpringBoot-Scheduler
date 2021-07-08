@@ -1,0 +1,8 @@
+2021-06-24 19:29:53,345 INFO org.apache.juli.logging.DirectJDKLog [main] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-06-24 19:29:53,361 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2021-06-24 19:29:53,361 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2197 ms
+2021-06-24 19:29:53,409 INFO org.springframework.boot.web.servlet.AbstractFilterRegistrationBean [main] Mapping filter: 'characterEncodingFilter' to: [/*]
+2021-06-24 19:29:53,409 INFO org.springframework.boot.web.servlet.AbstractFilterRegistrationBean [main] Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2021-06-24 19:29:53,409 INFO org.springframework.boot.web.servlet.AbstractFilterRegistrationBean [main] Mapping filter: 'formContentFilter' to: [/*]
+2021-06-24 19:29:53,410 INFO org.springframework.boot.web.servlet.AbstractFilterRegistrationBean [main] Mapping filter: 'requestContextFilter' to: [/*]
+2021-06-24 19:29:53,410 INFO org.springframework.boot.web.servlet.AbstractFilterRegistrationBean [main] Mapping filter: 'springSecurityFilterChain' to: [/*]

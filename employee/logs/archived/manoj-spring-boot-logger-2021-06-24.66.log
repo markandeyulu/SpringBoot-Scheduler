@@ -1,0 +1,7 @@
+2021-06-24 19:21:28,375 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8181"]
+2021-06-24 19:21:28,394 INFO org.apache.juli.logging.DirectJDKLog [main] Using a shared selector for servlet write/read
+2021-06-24 19:21:28,447 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8181 (http) with context path '/manoj'
+2021-06-24 19:21:28,455 INFO org.springframework.boot.StartupInfoLogger [main] Started MainApp in 4.603 seconds (JVM running for 5.658)
+2021-06-24 19:29:51,101 INFO org.springframework.boot.StartupInfoLogger [main] Starting MainApp on WGC1WC6VNFGH2 with PID 344 (C:\Users\mvinaya2\eclipse-workspace-spring-learning-new2\employee\target\classes started by MVINAYA2 in C:\Users\mvinaya2\eclipse-workspace-spring-learning-new2\employee)
+2021-06-24 19:29:51,107 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-24 19:29:53,038 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8181 (http)

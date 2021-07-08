@@ -1,0 +1,8 @@
+2021-06-29 20:32:26,475 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8181"]
+2021-06-29 20:32:26,536 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Using a shared selector for servlet write/read
+2021-06-29 20:32:26,593 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8181 (http) with context path '/manoj'
+2021-06-29 20:32:26,598 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started MainApp in 7.976 seconds (JVM running for 9.225)
+2021-06-29 20:32:53,177 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MainApp on WGC1WC6VNFGH2 with PID 14528 (C:\Users\mvinaya2\eclipse-workspace-spring-learning-new2\employee\target\classes started by MVINAYA2 in C:\Users\mvinaya2\eclipse-workspace-spring-learning-new2\employee)
+2021-06-29 20:32:53,182 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-06-29 20:32:53,304 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-29 20:32:53,305 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'

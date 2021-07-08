@@ -1,0 +1,8 @@
+2021-06-24 17:53:25,634 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2021-06-24 17:53:25,639 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 3902 ms
+2021-06-24 17:53:25,732 INFO org.springframework.boot.web.servlet.AbstractFilterRegistrationBean [main] Mapping filter: 'characterEncodingFilter' to: [/*]
+2021-06-24 17:53:25,733 INFO org.springframework.boot.web.servlet.AbstractFilterRegistrationBean [main] Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2021-06-24 17:53:25,735 INFO org.springframework.boot.web.servlet.AbstractFilterRegistrationBean [main] Mapping filter: 'formContentFilter' to: [/*]
+2021-06-24 17:53:25,735 INFO org.springframework.boot.web.servlet.AbstractFilterRegistrationBean [main] Mapping filter: 'requestContextFilter' to: [/*]
+2021-06-24 17:53:25,736 INFO org.springframework.boot.web.servlet.AbstractFilterRegistrationBean [main] Mapping filter: 'springSecurityFilterChain' to: [/*]
+2021-06-24 17:53:25,737 INFO org.springframework.boot.web.servlet.ServletRegistrationBean [main] Servlet dispatcherServlet mapped to [/]

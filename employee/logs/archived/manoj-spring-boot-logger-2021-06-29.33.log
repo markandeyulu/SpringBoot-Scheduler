@@ -1,0 +1,27 @@
+2021-06-29 19:57:55,640 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Stopping service [Tomcat]
+2021-06-29 19:57:55,661 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [restartedMain] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-06-29 19:57:55,676 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [restartedMain] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'spring.task.scheduling.pool.size' to int:
+
+    Property: spring.task.scheduling.pool.size
+    Value: 10#
+    Origin: class path resource [application.properties]:12:34
+    Reason: failed to convert java.lang.String to int
+
+Action:
+
+Update your application's configuration
+
+2021-06-29 19:58:21,299 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MainApp on WGC1WC6VNFGH2 with PID 13840 (C:\Users\mvinaya2\eclipse-workspace-spring-learning-new2\employee\target\classes started by MVINAYA2 in C:\Users\mvinaya2\eclipse-workspace-spring-learning-new2\employee)
+2021-06-29 19:58:21,304 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-06-29 19:58:21,362 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-29 19:58:21,362 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'

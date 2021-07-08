@@ -1,0 +1,8 @@
+2021-06-22 19:32:32,049 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2021-06-22 19:32:32,075 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor'
+2021-06-22 19:32:32,081 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'methodValidationPostProcessor'
+2021-06-22 19:32:32,142 DEBUG org.springframework.beans.factory.support.ConstructorResolver [main] Autowiring by type from bean name 'methodValidationPostProcessor' via factory method to bean named 'environment'
+2021-06-22 19:32:32,198 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'webServerFactoryCustomizerBeanPostProcessor'
+2021-06-22 19:32:32,212 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'errorPageRegistrarBeanPostProcessor'
+2021-06-22 19:32:32,228 DEBUG org.springframework.ui.context.support.UiApplicationContextUtils [main] Unable to locate ThemeSource with name 'themeSource': using default [org.springframework.ui.context.support.ResourceBundleThemeSource@476a736d]
+2021-06-22 19:32:32,230 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'tomcatServletWebServerFactory'

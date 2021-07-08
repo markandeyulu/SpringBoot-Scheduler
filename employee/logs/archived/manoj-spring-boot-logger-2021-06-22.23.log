@@ -1,0 +1,8 @@
+2021-06-22 19:32:39,421 DEBUG org.springframework.beans.factory.support.ConstructorResolver [main] Autowiring by type from bean name 'autowiredWebSecurityConfigurersIgnoreParents' via factory method to bean named 'org.springframework.beans.factory.support.DefaultListableBeanFactory@14dda234'
+2021-06-22 19:32:39,491 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'delegatingApplicationListener'
+2021-06-22 19:32:39,494 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'springSecurityFilterChain'
+2021-06-22 19:32:40,359 DEBUG com.employee.configuration.SecurityConfiguration [main] DEBUG LOGGER from SecurityConfiguration
+2021-06-22 19:32:40,359 INFO com.employee.configuration.SecurityConfiguration [main] INFO LOGGER from SecurityConfiguration
+2021-06-22 19:32:40,360 WARN com.employee.configuration.SecurityConfiguration [main] WARN LOGGER from SecurityConfiguration
+2021-06-22 19:32:40,360 ERROR com.employee.configuration.SecurityConfiguration [main] ERROR LOGGER from SecurityConfiguration
+2021-06-22 19:32:40,498 DEBUG org.springframework.security.web.access.expression.ExpressionBasedFilterInvocationSecurityMetadataSource [main] Adding web access control expression 'permitAll', for Ant [pattern='/getUserName']

@@ -1,0 +1,9 @@
+2021-06-29 19:48:04,707 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8181"]
+2021-06-29 19:48:04,708 INFO org.springframework.aop.interceptor.AsyncExecutionAspectSupport [scheduling-1] More than one TaskExecutor bean found within the context, and none is named 'taskExecutor'. Mark one of them as primary or name it 'taskExecutor' (possibly as an alias) in order to use it for async processing: [applicationTaskExecutor, taskScheduler]
+2021-06-29 19:48:04,743 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Using a shared selector for servlet write/read
+2021-06-29 19:48:04,771 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8181 (http) with context path '/manoj'
+2021-06-29 19:48:04,774 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started MainApp in 3.987 seconds (JVM running for 4.998)
+2021-06-29 19:48:45,500 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MainApp on WGC1WC6VNFGH2 with PID 13996 (C:\Users\mvinaya2\eclipse-workspace-spring-learning-new2\employee\target\classes started by MVINAYA2 in C:\Users\mvinaya2\eclipse-workspace-spring-learning-new2\employee)
+2021-06-29 19:48:45,503 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-06-29 19:48:45,552 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-06-29 19:48:45,552 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'

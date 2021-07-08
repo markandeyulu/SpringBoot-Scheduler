@@ -1,0 +1,7 @@
+2021-06-22 19:32:35,160 DEBUG org.springframework.boot.web.servlet.server.DocumentRoot [main] Code archive: C:\Users\mvinaya2\.m2\repository\org\springframework\boot\spring-boot\2.1.0.RELEASE\spring-boot-2.1.0.RELEASE.jar
+2021-06-22 19:32:35,181 DEBUG org.springframework.boot.web.servlet.server.DocumentRoot [main] Code archive: C:\Users\mvinaya2\.m2\repository\org\springframework\boot\spring-boot\2.1.0.RELEASE\spring-boot-2.1.0.RELEASE.jar
+2021-06-22 19:32:35,191 DEBUG org.springframework.boot.web.servlet.server.DocumentRoot [main] Document root: C:\Users\mvinaya2\eclipse-workspace-spring-learning-new2\employee\src\main\webapp
+2021-06-22 19:32:35,409 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8181 (http)
+2021-06-22 19:32:35,497 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8181"]
+2021-06-22 19:32:35,519 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2021-06-22 19:32:35,519 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet Engine: Apache Tomcat/9.0.12

@@ -1,0 +1,16 @@
+2021-06-22 19:32:38,900 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'welcomePageHandlerMapping'
+2021-06-22 19:32:38,910 DEBUG org.springframework.beans.factory.support.ConstructorResolver [main] Autowiring by type from bean name 'welcomePageHandlerMapping' via factory method to bean named 'org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@6c61a903'
+2021-06-22 19:32:38,921 DEBUG org.springframework.core.env.PropertySourcesPropertyResolver [main] Found key 'spring.mvc.view.prefix' in PropertySource 'configurationProperties' with value of type String
+2021-06-22 19:32:38,931 DEBUG org.springframework.core.env.PropertySourcesPropertyResolver [main] Found key 'spring.mvc.view.suffix' in PropertySource 'configurationProperties' with value of type String
+2021-06-22 19:32:38,937 INFO org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] Adding welcome page template: index
+2021-06-22 19:32:38,944 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.jmx.JmxAutoConfiguration'
+2021-06-22 19:32:38,980 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'mbeanExporter'
+2021-06-22 19:32:38,983 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'objectNamingStrategy'
+2021-06-22 19:32:38,990 DEBUG org.springframework.beans.factory.support.ConstructorResolver [main] Autowiring by type from bean name 'mbeanExporter' via factory method to bean named 'objectNamingStrategy'
+2021-06-22 19:32:39,008 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'mbeanServer'
+2021-06-22 19:32:39,019 DEBUG org.springframework.jmx.support.JmxUtils [main] Found MBeanServer: com.sun.jmx.mbeanserver.JmxMBeanServer@616f63b3
+2021-06-22 19:32:39,035 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.context.ConfigurationPropertiesAutoConfiguration'
+2021-06-22 19:32:39,090 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.http.JacksonHttpMessageConvertersConfiguration'
+2021-06-22 19:32:39,092 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.http.codec.CodecsAutoConfiguration$LoggingCodecConfiguration'
+2021-06-22 19:32:39,093 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loggingCodecCustomizer'
+2021-06-22 19:32:39,095 DEBUG org.springframework.beans.factory.support.ConstructorResolver [main] Autowiring by type from bean name 'loggingCodecCustomizer' via factory method to bean named 'spring.http-org.springframework.boot.autoconfigure.http.HttpProperties'
